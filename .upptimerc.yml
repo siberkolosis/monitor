@@ -10,8 +10,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+  - name: nyentrik
+    url: https://nyentrik.com
   - name: video.nyentrik.com
     url: https://video.nyentrik.com
 
