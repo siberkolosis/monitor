@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 315,
-    "timeWeek": 315,
-    "timeMonth": 315,
-    "timeYear": 315,
+    "time": 280,
+    "timeDay": 280,
+    "timeWeek": 280,
+    "timeMonth": 280,
+    "timeYear": 280,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 275,
-    "timeDay": 275,
-    "timeWeek": 275,
-    "timeMonth": 275,
-    "timeYear": 275,
+    "time": 264,
+    "timeDay": 264,
+    "timeWeek": 264,
+    "timeMonth": 264,
+    "timeYear": 264,
     "dailyMinutesDown": {}
   },
   {
@@ -72,23 +72,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "secret-site",
-    "status": "down",
+    "name": "video.nyentrik.com",
+    "url": "https://video.nyentrik.com",
+    "icon": "https://favicons.githubusercontent.com/video.nyentrik.com",
+    "slug": "video-nyentrik-com",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2020-12-26": 2
-    }
+    "time": 859,
+    "timeDay": 859,
+    "timeWeek": 859,
+    "timeMonth": 859,
+    "timeYear": 859,
+    "dailyMinutesDown": {}
   }
 ]
