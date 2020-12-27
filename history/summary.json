@@ -76,17 +76,19 @@
     "url": "https://video.nyentrik.com",
     "icon": "https://favicons.githubusercontent.com/video.nyentrik.com",
     "slug": "video-nyentrik-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 872,
     "timeDay": 872,
     "timeWeek": 872,
     "timeMonth": 872,
     "timeYear": 872,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-27": 0
+    }
   }
 ]
