@@ -58,19 +58,19 @@
     "url": "https://nyentrik.com",
     "icon": "https://favicons.githubusercontent.com/nyentrik.com",
     "slug": "nyentrik",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1475,
-    "timeDay": 1189,
-    "timeWeek": 1446,
-    "timeMonth": 1520,
-    "timeYear": 1475,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "97.45%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.94%",
+    "time": 1470,
+    "timeDay": 1200,
+    "timeWeek": 1424,
+    "timeMonth": 1512,
+    "timeYear": 1470,
     "dailyMinutesDown": {
-      "2021-02-10": 0
+      "2021-02-10": 37
     }
   },
   {
